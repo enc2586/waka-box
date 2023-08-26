@@ -29,3 +29,6 @@
 1. Add the following environment variables:
    - **GH_TOKEN:** The GitHub token generated above.
    - **WAKATIME_API_KEY:** The API key for your WakaTime account.
+
+### When does it runs?
+It runs periodically. Or you can directly run by editing files such as README.md
